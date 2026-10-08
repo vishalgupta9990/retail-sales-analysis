@@ -63,9 +63,9 @@ The dataset contains retail transaction-level information.
 retail-sales-analysis/
 │
 ├── README.md
-├── retail_sales.csv
+├── Retail Sales Analysis.csv
 ├── 01_database_setup.sql
-└── retail_sales_analysis.sql
+└── Retail_Sales_Analysis_query.sql
 ```
 
 ### File Description
