@@ -70,7 +70,7 @@ retail-sales-analysis/
 
 ### File Description
 
-#### `retail_sales.csv`
+#### `Retail Sales Analysis.csv`
 
 Contains the retail sales dataset used for the analysis.
 
@@ -82,7 +82,7 @@ Contains SQL queries for:
 * Creating the `retail_sales` table
 * Defining table columns and data types
 
-#### `retail_sales_analysis.sql`
+#### `Retail_Sales_Analysis_query.sql`
 
 Contains SQL queries for:
 
